@@ -5,3 +5,13 @@ Syahrul Anuar is a cultural worker, [artist](https://syahrulanuar.org), develope
 He works full time for [SERIAL CO_](https://serial.sg) a creative-tech studio based in Singapore focusing on AR,VR, XR and the Metaverse. Syahrul Anuar is a full-stack developer leading the small tight-knitted team into developing web-based projects both in the web2 💻 and web3 🔮 space.
 
 He is available for freelance work.
+
+---
+
+### Current Projects
+
+Current projects are currently under an NDA. 
+
+### Past Projects
+
+- Reconcenptualizing the Cold War Asia (https://rcw-asia.org)
