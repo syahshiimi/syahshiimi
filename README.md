@@ -13,6 +13,7 @@ He is available for freelance work for either designing or programming from Dec 
 Here are a few non-NDA projects that I am currently working on.
 
 - Dblspace Residency Archival Project (https://dblspace-archives-2022.vercel.app/) - 🏗️
+- Tell Your Children Paradise Shores (https://paradiseshores.io) 🏗️
 
 ### Past Projects
 
@@ -23,6 +24,5 @@ Here are a few non-NDA projects that I am currently working on.
 - Reconcenptualizing the Cold War Asia (https://rcw-asia.org) 🏗️
 - VAROK Marketplace (https://varok.co) - ⚒️
 - In Hot Waters (https://inhotwaters-vercel-app.com) - 🏗️
-- Tell Your Children Paradise Shores (https://paradiseshores.io) 🏗️
 - NTU School of Social Sciences (https://ntu.edu.sg/sss) - ⚒️
 - NTU School of Art Design and Media (https://ntu.edu.sg/adm) -  ⚒️
