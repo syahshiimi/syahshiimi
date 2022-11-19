@@ -18,7 +18,7 @@ Current projects are currently under an NDA.
 ⚒️  - Finished Projects
 🏗️ - Work-in-progress/Upgrading
 
-- Dblspace Residency Archival Project - 🏗️
+- Dblspace Residency Archival Project (https://dblspace-archives-2022.vercel.app/) - 🏗️
 - Reconcenptualizing the Cold War Asia (https://rcw-asia.org) 🏗️
 - VAROK Marketplace (https://varok.co) - ⚒️
 - In Hot Waters (https://inhotwaters-vercel-app.com) - 🏗️
