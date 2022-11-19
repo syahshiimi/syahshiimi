@@ -13,15 +13,14 @@ He is available for freelance work for either designing or programming from Dec 
 Here are a few non-NDA projects that I am currently working on.
 
 - Dblspace Residency Archival Project (https://dblspace-archives-2022.vercel.app/) - 🏗️
-- Reconcenptualizing the Cold War Asia (https://rcw-asia.org) 🏗️
-
 
 ### Past Projects
 
 #### LEGENDS
-⚒️  - Finished Projects
+⚒️  - Finished Projects  
 🏗️ - Work-in-progress/Upgrading
 
+- Reconcenptualizing the Cold War Asia (https://rcw-asia.org) 🏗️
 - VAROK Marketplace (https://varok.co) - ⚒️
 - In Hot Waters (https://inhotwaters-vercel-app.com) - 🏗️
 - Tell Your Children Paradise Shores (https://paradiseshores.io) 🏗️
