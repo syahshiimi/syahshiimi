@@ -14,4 +14,14 @@ Current projects are currently under an NDA.
 
 ### Past Projects
 
-- Reconcenptualizing the Cold War Asia (https://rcw-asia.org)
+#### LEGENDS
+⚒️  - Finished Projects
+🏗️ - Work-in-progress/Upgrading
+
+- Dblspace Residency Archival Project - 🏗️
+- Reconcenptualizing the Cold War Asia (https://rcw-asia.org) 🏗️
+- VAROK Marketplace (https://varok.co) - ⚒️
+- In Hot Waters (https://inhotwaters-vercel-app.com) - 🏗️
+- Tell Your Children Paradise Shores (https://paradiseshores.io) 🏗️
+- NTU School of Social Sciences (https://ntu.edu.sg/sss) - ⚒️
+- NTU School of Art Design and Media (https://ntu.edu.sg/adm) -  ⚒️
