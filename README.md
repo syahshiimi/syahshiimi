@@ -21,8 +21,8 @@ Here are a few non-NDA projects that I am currently working on.
 - Tell Your Children Paradise Shores (https://paradiseshores.io) 🏗️
 
 ### Past Projects
-- Reconcenptualizing the Cold War Asia (https://rcw-asia.org) 🏗️
+- Reconcenptualizing the Cold War Asia (https://rcw-asia.com) 🏗️
 - VAROK Marketplace (https://varok.co) - ⚒️
 - In Hot Waters (https://inhotwaters-vercel-app.com) - 🏗️
-- NTU School of Social Sciences (https://ntu.edu.sg/sss) - ⚒️
-- NTU School of Art Design and Media (https://ntu.edu.sg/adm) -  ⚒️
+- NTU School of Social Sciences (https://www.ntu.edu.sg/sss) - ⚒️
+- NTU School of Art Design and Media (https://www.ntu.edu.sg/adm) -  ⚒️
