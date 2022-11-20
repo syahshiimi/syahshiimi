@@ -23,6 +23,6 @@ Here are a few non-NDA projects that I am currently working on.
 ### Past Projects
 - Reconcenptualizing the Cold War Asia (https://rcw-asia.com) 🏗️
 - VAROK Marketplace (https://varok.co) - ⚒️
-- In Hot Waters (https://inhotwaters-vercel-app.com) - 🏗️
+- In Hot Waters (https://inhotwaters-frontend.vercel.app/) - 🏗️
 - NTU School of Social Sciences (https://www.ntu.edu.sg/sss) - ⚒️
 - NTU School of Art Design and Media (https://www.ntu.edu.sg/adm) -  ⚒️
