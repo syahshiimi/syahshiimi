@@ -6,8 +6,6 @@ He works full time for [SERIAL CO_](https://serial.sg) a creative-tech studio ba
 
 He is available for freelance work for either designing or programming from Dec 2022 onwards.
 
----
-
 ## Projects
 
 #### LEGENDS
