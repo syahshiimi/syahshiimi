@@ -22,7 +22,7 @@ Here are a few non-NDA projects that I am currently working on.
 - [h0t.house](https://h0t.house) 🛠
 
 ### Past Projects
-- Rest, In Peace for SAW 2023 🏡🏗️
+- _Rest, In Peace_ Photobooth Artwork 🏡🏗️
 - [MR(AI) 3.0](https://c2qef6meb7eekekoqeoj4bd3b66yk2usgdjl663lu7wlvq7utjiq.arweave.net/FqBC-YQPyEURToEcngR7D72FapIw0r97a6fsusP0mlE) 🏗️
 - [Reconcenptualizing the Cold War Asia](https://rcw-asia.com) 🏡🏗️
 - [VAROK Marketplace](https://varok.co) - 🏡🏗️
