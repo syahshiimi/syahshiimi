@@ -19,7 +19,7 @@ Here are a few non-NDA projects that I am currently working on.
 
 - [Dblspace Residency Archival Project](https://dblspace-archives-2022.vercel.app/) - 🏗️ (DESIGN + DEVELOP)
 - [Tell Your Children Paradise Shores](https://paradiseshores.io) 🏗️ (DESIGN + DEVELOP)
-- [h0t.house](https://h0t.house🛠 (POST-DEPLOYMENT MAINTAINANCE + UPGRADE)
+- [h0t.house](https://h0t.house)🛠 (POST-DEPLOYMENT MAINTAINANCE + UPGRADE)
 
 ### Past Projects
 - [MR(AI) 3.0](https://c2qef6meb7eekekoqeoj4bd3b66yk2usgdjl663lu7wlvq7utjiq.arweave.net/FqBC-YQPyEURToEcngR7D72FapIw0r97a6fsusP0mlE) (DEVELOP)
