@@ -9,19 +9,21 @@ He is available for freelance work for either designing or programming from Mar 
 ## Projects
 
 #### LEGENDS
-⚒️  - Finished Projects  
+🏡 - Finished Projects  
 🏗️ - Work-in-progress/Upgrading
+🛠 - Maintaining
+
 
 ### Current Projects
 Here are a few non-NDA projects that I am currently working on.
 
 - Dblspace Residency Archival Project (https://dblspace-archives-2022.vercel.app/) - 🏗️
 - Tell Your Children Paradise Shores (https://paradiseshores.io) 🏗️
-- h0t.house (https://h0t.house)🏗️
+- h0t.house (https://h0t.house🛠
 
 ### Past Projects
-- Reconcenptualizing the Cold War Asia (https://rcw-asia.com) 🏗️
-- VAROK Marketplace (https://varok.co) - ⚒️
+- Reconcenptualizing the Cold War Asia (https://rcw-asia.com) 🏡
+- VAROK Marketplace (https://varok.co) - 🏡
 - In Hot Waters (https://inhotwaters-frontend.vercel.app/) - 🏗️
-- NTU School of Social Sciences (https://www.ntu.edu.sg/sss) - ⚒️
-- NTU School of Art Design and Media (https://www.ntu.edu.sg/adm) -  ⚒️
+- NTU School of Social Sciences (https://www.ntu.edu.sg/sss) - 🏡
+- NTU School of Art Design and Media (https://www.ntu.edu.sg/adm) -  🏡
