@@ -17,7 +17,7 @@ Here are a few non-NDA projects that I am currently working on.
 
 - Dblspace Residency Archival Project (https://dblspace-archives-2022.vercel.app/) - 🏗️
 - Tell Your Children Paradise Shores (https://paradiseshores.io) 🏗️
-- h0t.house (https://h0t.house)
+- h0t.house (https://h0t.house)🏗️
 
 ### Past Projects
 - Reconcenptualizing the Cold War Asia (https://rcw-asia.com) 🏗️
