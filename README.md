@@ -10,7 +10,7 @@ He is available for freelance work for either designing or programming from Mar 
 
 #### LEGENDS
 🏡 - Finished Projects  
-🏗️ - Work-in-progress/Upgrading
+🏗️ - Work-in-progress/Upgrading  
 🛠 - Maintaining
 
 
@@ -23,7 +23,7 @@ Here are a few non-NDA projects that I am currently working on.
 
 ### Past Projects
 - [MR(AI) 3.0](https://c2qef6meb7eekekoqeoj4bd3b66yk2usgdjl663lu7wlvq7utjiq.arweave.net/FqBC-YQPyEURToEcngR7D72FapIw0r97a6fsusP0mlE)
-- Reconcenptualizing the Cold War Asia(https://rcw-asia.com) 🏡
+- [Reconcenptualizing the Cold War Asia](https://rcw-asia.com) 🏡
 - [VAROK Marketplace](https://varok.co) - 🏡
 - [In Hot Waters](https://inhotwaters-frontend.vercel.app/) - 🏗️
 - [NTU School of Social Science](https://www.ntu.edu.sg/sss) - 🏡
