@@ -17,7 +17,6 @@ He is available for freelance work, either designing or programming from Mar 202
 ### Current Projects
 Here are a few non-NDA projects that I am currently working on.
 
-- [Dblspace Residency Archival Project](https://dblspace-archives-2022.vercel.app/) - 🏡
 - [Tell Your Children Paradise Shores](https://paradiseshores.io) 🏡
 - [h0t.house](https://h0t.house) 🛠
 
