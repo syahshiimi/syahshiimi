@@ -23,7 +23,7 @@ Here are a few non-NDA projects that I am currently working on.
 ### Past Projects
 - _Rest, In Peace_ Photobooth Artwork 🏡🏗️
 - [MR(AI) 3.0](https://c2qef6meb7eekekoqeoj4bd3b66yk2usgdjl663lu7wlvq7utjiq.arweave.net/FqBC-YQPyEURToEcngR7D72FapIw0r97a6fsusP0mlE) 🏗️
-- [Reconcenptualizing the Cold War Asia](https://rcw-asia.com) 🏡🏗️
+- [RCW ASIA](https://rcw-archives-v2-git-migrate-to-tailwind-syahshiimi.vercel.app) 🏡🏗️
 - [VAROK Marketplace](https://varok.co) - 🏡🏗️
 - [In Hot Waters](https://inhotwaters-frontend.vercel.app/) - 🏡🏗️
 - [NTU School of Social Science](https://www.ntu.edu.sg/sss) - 🏡🏗️
