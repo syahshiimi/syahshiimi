@@ -17,9 +17,9 @@ He is available for freelance work, either designing or programming from Mar 202
 ### Current Projects
 Here are a few non-NDA projects that I am currently working on.
 
-- [Tell Your Children Paradise Shores](https://paradiseshores.io) 🏡
+- [Tell Your Children Paradise Shores](https://paradiseshores.io) 🏡🏗️
 - [h0t.house](https://h0t.house) 🛠
-- [Open Systems](https://opensystems.sg
+- [Open Systems](https://opensystems.sg) 🏡🏗️
 
 ### Past Projects
 - _Rest, In Peace_ Photobooth Artwork 🏡🏗️
