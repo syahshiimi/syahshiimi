@@ -19,6 +19,7 @@ Here are a few non-NDA projects that I am currently working on.
 
 - [Tell Your Children Paradise Shores](https://paradiseshores.io) 🏡
 - [h0t.house](https://h0t.house) 🛠
+- [Open Systems](https://opensystems.sg
 
 ### Past Projects
 - _Rest, In Peace_ Photobooth Artwork 🏡🏗️
