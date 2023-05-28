@@ -22,7 +22,7 @@ Here are a few non-NDA projects that I am currently working on.
 - [Open Systems](https://opensystems.sg) 🏡🏗️
 
 ### Past Projects
-- _Rest, In Peace_ Photobooth Artwork 🏡🏗️
+- _Rest, In Peace_ Photobooth 🏡🏗️
 - [MR(AI) 3.0](https://c2qef6meb7eekekoqeoj4bd3b66yk2usgdjl663lu7wlvq7utjiq.arweave.net/FqBC-YQPyEURToEcngR7D72FapIw0r97a6fsusP0mlE) 🏗️
 - [RCW ASIA](https://rcw-archives-v2-git-migrate-to-tailwind-syahshiimi.vercel.app) 🏡🏗️
 - [VAROK Marketplace](https://varok.co) - 🏡🏗️
