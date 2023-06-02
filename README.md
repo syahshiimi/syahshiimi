@@ -15,7 +15,6 @@ He is available for freelance work, either designing or programming from Mar 202
 
 
 ### Current Projects
-Here are a few non-NDA projects that I am currently working on.
 
 - [h0t.house](https://h0t.house) 🛠 (Nuxt2, Vue2, SCSS, GSAP, JavaScript, GraphQL)
 - [Open Systems](https://opensystems.sg) 🏡🏗️ (TypeScript, NextJS, TailwindCSS, React, Framer Motion)
