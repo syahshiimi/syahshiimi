@@ -2,7 +2,7 @@
 
 Syahrul Anuar is a cultural worker, [artist](https://syahrulanuar.org), self-taught developer and designer. He is currently based in Singapore, working with web-based and other forms of technologies within his practice to re-inform, re-narrate, re-frame our negotiations and conversations with the historicity of Singapore.
 
-He is available for freelance consultanty work.
+He is available for freelance consultantcy work.
 
 ## Projects
 
