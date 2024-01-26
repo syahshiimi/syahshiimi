@@ -1,8 +1,10 @@
 ## Syahrul Anuar 👋🏾
 
-Syahrul Anuar is a cultural worker, [artist](https://syahrulanuar.org), self-taught developer and designer. He is currently based in Singapore, working with web-based and other forms of technologies within his practice to re-inform, re-narrate, re-frame our negotiations and conversations with the historicity of Singapore.
+Syahrul Anuar is an [artist](https://syahrulanuar.org) and a cultural creative technologist. He is intersted in OSS, Geopolitics of Software and the layered intersections of art, huamnities and technology.
 
-He is available for freelance consultantcy work.
+He is currently based in Singapore, expanding beyond web-based experimentations and living the spriti of experimental engineering. 
+
+He is available for freelance consultancy work.
 
 ## Projects
 
@@ -10,7 +12,6 @@ He is available for freelance consultantcy work.
 🏡 - Design  
 🏗️ - Develop  
 🛠 - Maintanence/Upgrading
-
 
 ### Current Projects
 - [Syahrulanuar.info](https://syahrulanuar-support.vercel.app/) 🏡🏗️ (SvelteKit, TypeScript, TailwindCSS, GraphQL)
