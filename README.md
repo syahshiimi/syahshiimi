@@ -13,13 +13,12 @@ He is available for freelance consultantcy work.
 
 
 ### Current Projects
-
-- [h0t.house](https://h0t.house) 🛠 (Nuxt2, Vue2, SCSS, GSAP, JavaScript, GraphQL)
-- [Open Systems](https://opensystems.sg) 🏡🏗️ (TypeScript, NextJS, TailwindCSS, React, Framer Motion)
-- [RCW ASIA](https://rcw-archives-v2-git-migrate-to-tailwind-syahshiimi.vercel.app) 🏡🏗️ (NextJS, TailwindCSS, ContentfulCMS, GraphQL, React Query)
 - [Syahrulanuar.info](https://syahrulanuar-support.vercel.app/) 🏡🏗️ (SvelteKit, TypeScript, TailwindCSS, GraphQL)
 
 ### Past Projects
+- [h0t.house](https://h0t.house) 🛠 (Nuxt2, Vue2, SCSS, GSAP, JavaScript, GraphQL)
+- [Open Systems](https://opensystems.sg) 🏡🏗️ (TypeScript, NextJS, TailwindCSS, React, Framer Motion)
+- [RCW ASIA](https://rcw-archives-v2-git-migrate-to-tailwind-syahshiimi.vercel.app) 🏡🏗️ (NextJS, TailwindCSS, ContentfulCMS, GraphQL, React Query)
 - _Rest, In Peace_ Photobooth 🏡🏗️ (NextJS, React, TypeScript, TailwindCSS, Python, Stable Diffuson, FastAPI)
 - [MR(AI) 3.0](https://c2qef6meb7eekekoqeoj4bd3b66yk2usgdjl663lu7wlvq7utjiq.arweave.net/FqBC-YQPyEURToEcngR7D72FapIw0r97a6fsusP0mlE) 🏗️ (HTML, CSS, JavaScript, ThreeJS, ArWeave)
 - [VAROK Marketplace](https://varok.co) - 🏡🏗️ (NextJS, Typescript, React, ChakraUI, Framer Motion)
