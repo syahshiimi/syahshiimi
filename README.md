@@ -15,6 +15,7 @@ He is available for freelance consultancy work.
 
 ### Current Projects
 - [Syahrulanuar.info](https://syahrulanuar-support.vercel.app/) 🏡🏗️ (SvelteKit, TypeScript, TailwindCSS, GraphQL)
+- [Open Systems](https://opensystems.sg) 🏡🏗️ (NextJS, React 18, Framer Motion, GraphQL, DatoCMS, TailwindCSS)
 
 ### Past Projects
 - [h0t.house](https://h0t.house) 🛠 (Nuxt2, Vue2, SCSS, GSAP, JavaScript, GraphQL)
